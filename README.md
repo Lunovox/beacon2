@@ -10,6 +10,7 @@ This mod adds Beacons to minetest that can be used as landmarks and thats just a
  * landrush (optional)
 
 **Developers:**
+ * AgentNagel42
  * [Sam Hocevar](sam@hocevar.net)
  * [Lunovox Heavenfinder](https://libreplanet.org/wiki/User:Lunovox)
 
