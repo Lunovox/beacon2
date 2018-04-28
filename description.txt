@@ -1,28 +1,6 @@
-# beacon2
-
 This mod adds Beacons to minetest that can be used as landmarks and thats just about it.
 
-**Depends:**
- * default
- * [intllib](https://github.com/minetest-mods/intllib) (optional)
- * [lib_savevars](https://github.com/Lunovox/lib_savevars) (optional)
- * [tradelands](https://github.com/Lunovox/tradelands) (optional)
- * landrush (optional)
-
-**Developers:**
- * [Sam Hocevar](sam@hocevar.net)
- * [Lunovox Heavenfinder](https://libreplanet.org/wiki/User:Lunovox)
-
-**License:**
- * [AGPL](https://github.com/Lunovox/beacon2/blob/master/LICENSE)
- 
-**Official Video:** 
- * https://youtu.be/NA1T4Vu6f5g
-
-**Forum Topic:** 
- * https://forum.minetest.net/viewtopic.php?f=11&t=12041
- 
-**Changelog:**
+Changelog:
  * Beacons v2.0
 		-Added Api for Beacons
 		-Added light height of beacon in init
@@ -42,3 +20,16 @@ This mod adds Beacons to minetest that can be used as landmarks and thats just a
 		-Added Blue Beacon
 		-Added Purple Beacon
 		-Added Green Beacon
+
+Developers:
+ * [Sam Hocevar](sam@hocevar.net)
+ * [Lunovox Heavenfinder](https://libreplanet.org/wiki/User:Lunovox)
+
+License:
+ * WTFPL - Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
+ 
+Official Video: 
+ * https://youtu.be/NA1T4Vu6f5g
+
+Forum Topic: 
+ * https://forum.minetest.net/viewtopic.php?f=11&t=12041

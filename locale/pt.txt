@@ -1,0 +1,17 @@
+#Transdutor: Lunovox <lunovox@openmailbox.org>
+
+Unactivated Beacon = Farol Incolor (Desativado)
+Beacon Name = Nome do Farol
+RENAME = RENOMEAR
+
+Red Beacon = Farol Vermelho
+beaconred = farolvermelho
+
+Blue Beacon = Farol Azul
+beaconblue = farolazul
+
+Green Beacon = Farol Verde
+beacongreen = farolverde
+
+Purple Beacon = Farol Púrpura
+beaconpurple = farolpurpura
